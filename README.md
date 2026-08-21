@@ -1,6 +1,6 @@
-# Flipper Asset Maker Pro
+# Flipper Asset Maker 
 
-Herramienta GUI/CLI para crear paquetes de animaciones compatibles con Flipper Zero y Momentum Firmware. Convierte imagenes, GIFs y texto a frames `.bm` de 128x64, genera `meta.txt`, actualiza `manifest.txt` sin borrar otras animaciones y valida que la estructura exportada no tenga referencias rotas.
+Herramienta GUI para crear paquetes de animaciones compatibles con Flipper Zero y Momentum Firmware. Convierte imagenes, GIFs y texto a frames `.bm` de 128x64, genera `meta.txt`, actualiza `manifest.txt` sin borrar otras animaciones y valida que la estructura exportada no tenga referencias rotas.
 
 ## Funciones principales
 

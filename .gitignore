@@ -7,3 +7,14 @@ build/
 *.spec
 *.log
 .pytest_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+*.egg-info/
+.env
+.env.*
+!.env.example
+exports/
+.export-*/
+.codex/
+.mypy_cache/
